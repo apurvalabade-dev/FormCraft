@@ -227,7 +227,7 @@ npm run dev
 
 ## Author
 
-Built by Apu — MCA student at Shivaji University, Kolhapur.
+Built by Apurva Labade — MCA student at Shivaji University, Kolhapur.
 Portfolio project demonstrating full-stack React architecture and production-quality engineering.
 
 ```
