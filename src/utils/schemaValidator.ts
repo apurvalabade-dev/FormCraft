@@ -1,6 +1,6 @@
 // src/utils/schemaValidator.ts
 
-import type { FormSchema } from '../types/schema';
+
 
 const VALID_TYPES = [
   'text',
